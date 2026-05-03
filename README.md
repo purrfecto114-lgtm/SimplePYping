@@ -1,3 +1,5 @@
+可以。下面是按你当前代码状态重写后的 `README.md`，直接全量覆盖即可。已修正原 README 里的旧内容：PostScript/Ghostscript、旧仓库名、旧运行文件名、安装格式混乱等问题。原文件内容参考自你上传的 README：
+
 ````markdown
 # Pyping
 
